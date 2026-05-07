@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi there 👋
 
 <!--
 **up260743scg/up260743scg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
