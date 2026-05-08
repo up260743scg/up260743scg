@@ -1,5 +1,7 @@
-Hi there 👋
+## Hola a todos (^^) 👋
 
+###Yo soy Sebastian, hago mantenimientos, reparaciones y optimizaciones a computadoras y laptops
+###Y ayudo a mi madre a vender productos de Mary Kay (maquillaje, limpieza, perfumes) a hombres y mujeres
 <!--
 **up260743scg/up260743scg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
